@@ -1,0 +1,10 @@
+b := 2^(15-1) - 1
+- Smallest positive denormalized:
+  - Value: 2^(1-b-63)
+  - Decimal: 0 0...0 0 0...1
+- Smallest positive normalized:
+  - Value: 2^(1-b)
+  - Decimal: 0 0...1 1 0...0
+- Largest denormalized:
+  - Value: ((2^16-1)-b)*(2 - 2^(-63)) = (2^b)*(2 - 2^(-63))
+  - Decimal: (2^b)*(2-2^(-63))

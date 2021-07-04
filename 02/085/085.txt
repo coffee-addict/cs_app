@@ -1,0 +1,6 @@
+A: V = (-1)^0 (1.1100...0) 2^2
+   Bit representation = 111.00...0
+B: V = (-1)^2 (1.11...1) 2^E
+   Bit representation = 011....1.00...0
+C: V = (-1)^0 (100...0) 2^(bias-1)
+   Bit representation = 010....0.00...0

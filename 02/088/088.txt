@@ -1,0 +1,15 @@
+- 0 10110 011
+  - value of A: 192
+  - value of B: 19
+- 1 00111 010
+  - value of A: -5/(2^10)
+  - value of B: -13/(2^7)
+- 0 00000 111
+  - value of A: 7/(2^17)
+  - value of B: 7/(2^10)
+- 1 11100 000
+  - value of A: -2^13
+  - value of B: -2^21
+- 0 10111 100
+  - value of A: 384
+  - value of B: 28
