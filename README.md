@@ -1,2 +1,2 @@
 # cs_app
-My homework solutions for book [CS:APP](https://csapp.cs.cmu.edu/).
+My solutions for homework problems in [CS:APP](https://csapp.cs.cmu.edu/).
